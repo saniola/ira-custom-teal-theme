@@ -1,5 +1,5 @@
 {
-  "name": "vira-custom-teal-theme",
+  "name": "ira-custom-teal-theme",
   "displayName": "Ira Custom Teal Theme",
   "description": "Custom dark theme with teal accents based on Material Theme",
   "version": "1.0.0",
@@ -15,7 +15,7 @@
     "dark theme",
     "teal",
     "material theme",
-    "vira"
+    "ira"
   ],
   "contributes": {
     "themes": [
