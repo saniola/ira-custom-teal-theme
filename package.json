@@ -1,0 +1,29 @@
+{
+  "name": "vira-custom-teal-theme",
+  "displayName": "Ira Custom Teal Theme",
+  "description": "Custom dark theme with teal accents based on Material Theme",
+  "version": "1.0.0",
+  "publisher": "alexkydanov",
+  "engines": {
+    "vscode": "^1.51.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "teal",
+    "material theme",
+    "vira"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ira Custom Teal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ira-custom-teal.json"
+      }
+    ]
+  }
+}
