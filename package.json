@@ -4,6 +4,11 @@
   "description": "Custom dark theme with teal accents based on Material Theme",
   "version": "1.0.0",
   "publisher": "alexkydanov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saniola/ira-custom-teal-theme.git"
+  },
   "engines": {
     "vscode": "^1.51.0"
   },
